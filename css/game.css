@@ -1,0 +1,37 @@
+.game-field {
+  background-color: orange;
+  min-height: 10vh;
+  margin: 1px 1px 1px 1px;
+  line-height: 10vh;
+}
+
+.target {
+  background-color: green;
+  color: white;
+  font-size: 24pt;
+  text-align: center;
+}
+
+.miss {
+  background-color: red;
+  color: antiquewhite;
+}
+
+.target_1 {
+  background-color: orange;
+  color: white;
+  font-size: 24pt;
+  text-align: center;
+}
+
+.container_hide{
+  display:none;
+  background-color:white;
+  color: white;
+  height: 1vh;
+  line-height: 5vh;
+}
+
+.btn_hide{
+  display:none;
+}
